@@ -7,6 +7,6 @@ public class Main {
         featureCar car=new featureCar();
         car.color="black";
         car.company="toyota";
-        car.company=12233444
+        car.company="12233444";
     }
 }
