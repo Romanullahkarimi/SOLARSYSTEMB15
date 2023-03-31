@@ -4,5 +4,9 @@ public class Main {
         audi.color="black";
         audi.model="a3";
         audi.power="5000cc";
+        featureCar car=new featureCar();
+        car.color="black";
+        car.company="toyota";
+        car.company=12233444
     }
 }
